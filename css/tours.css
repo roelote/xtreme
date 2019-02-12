@@ -65,7 +65,8 @@ nav
 }
 .breadcrumb-item::before
 {
-	content: "" !important;
+	/*content: "" !important;*/
+  color: #fff !important;
 }
 .slider-t .carousel-item
 {
@@ -260,7 +261,8 @@ h2.resp-accordion { display: block; }
 .resp-tabs-container h2
 {
   font-size: 1.5rem;
-  color: #339966;
+  /*color: #339966;*/
+  color: #474747;
     font-family: 'Oswald', sans-serif !important;
 }
 .resp-tabs-container h3
@@ -272,6 +274,7 @@ h2.resp-accordion { display: block; }
 padding: 3px;
 border-bottom: 1px solid #e3dede;
 border-right: 1px solid #e3dede;
+margin-top: 15px;
 }
 
 .resp-tabs-container h4
@@ -294,5 +297,13 @@ border-right: 1px solid #e3dede;
     font-family: 'FontAwesome';
     float: left;
     padding-right: 5px;
+}
+.resp-tab-content ol li, .resp-tab-content ul li
+{
+  margin: 2px 0px;
+}
+.gallery img
+{
+  margin: 2px 0px;
 }
 /*end tabs*/

@@ -8,7 +8,7 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" >
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.6/dist/jquery.fancybox.min.css" />
     <link rel="stylesheet" href="../css/xtreme.css">
     <link rel="stylesheet" href="../css/tours.css">
 
@@ -26,9 +26,10 @@ include('../includes/header.php');
        <div class="row">
         <div class="d-block mx-auto">
           <nav aria-label="breadcrumb">
-            <ol class="breadcrumb text-center">
-              <li class="breadcrumb-item active text-white w-100 h2 my-2 " aria-current="page"><b>Short Inca Trail 2 days</b></li>
-              <li class="breadcrumb-item w-100"><a href="/">Home</a></li>
+            <ol class="breadcrumb">
+              <li class="breadcrumb-item active text-white w-100 h2 my-2 " aria-current="page"><b>SHORT INCA TRAIL 2 DAYS</b></li>
+              <li class="breadcrumb-item"><a href="/">Home</a></li>
+              <li class="breadcrumb-item"><a href="/inca-trail-treks/">Inca trail</a></li>
             </ol>
         </nav>
         </div>
@@ -45,17 +46,12 @@ include('../includes/header.php');
           <!-- Heading Row -->
           <div class="align-items-center mt-1 mb-2">
               <h1><b>Short Inca Trail 2 days</b></h1>
-              <img class="img-fluid rounded pb-sm-3 mb-lg-0" src="../img/inca-trail-machu-picchu.jpg" alt=" inca trail machu picchu">
-            <!-- /.col-lg-8 -->
+              <img class="img-fluid rounded pb-sm-3 mb-lg-0 " src="../img/inca-trail-machu-picchu.jpg" alt=" inca trail machu picchu">
                 <p>  The Short Inca Trail 2 days to Machu Picchu is the most important 2 days hike that takes you into Machu Picchu. Despite the shorter trek time you will nonetheless experience all of the main highlights of the real 2 day Inca Trail Peru.The Inca Trail is beyond a doubt one of the most beautiful trails in the Americas and therefore an unforgettable experience not to be missed.</p>
-                
                 <p>The Real Short Inca trail leads through the protected wild nature of the Peruvian jungle and forest steppe, passes several archeological Inca sights and offers impressive views. The Incas used this itinerary for the pilgrimage to the sacred citadel Machu Picchu.</p>
-             
-            <!-- /.col-md-4 -->
           </div>
           <!-- /.row -->
-
-  
+    
           <div class="tabs-tours">
 
             <div id="horizontalTab">
@@ -174,10 +170,10 @@ include('../includes/header.php');
 
                 <h4>Short Inca Trail Conditions & Terms:</h4>
                 <ol>
-                  <li class="my-1">We require an immediate deposit of US $ 150 for all bookings</li>
-                  <li class="my-1">For all tours and treks the balance can be paid up to 48 hours prior to the start of the program. In case of paying the balance in the office of XTreme Tourbulencia we only accept cash payment. Failure to pay the trek balance will result in tour cancellation.</li>
-                  <li class="my-1">If a participant decides to cancel during the breefing 2 days prior to departure, he or she has to pay the full amount of the trek. XTreme Tourbulencia however, will cover the expenses (hotel and train ticket) made by that participant to visit Machu Picchu. This offer of ours must be confirmed at the breefing itself.</li>
-                  <li class="my-1">The Client may cancel the Package booking at any time provided that the cancellation is communicated to <a href="mailto:info@x-tremetourbulencia.com">info@x-tremetourbulencia.com</a> in writing. Cancellation charges will be applied as shown below calculated from the day written notification is received by <a href="mailto:info@x-tremetourbulencia.com">info@x-tremetourbulencia.com</a> All reservations cancelled less than 15 days prior to the departure date of the tour are subject to a cancellation fee <br>
+                  <li>We require an immediate deposit of US $ 150 for all bookings</li>
+                  <li>For all tours and treks the balance can be paid up to 48 hours prior to the start of the program. In case of paying the balance in the office of XTreme Tourbulencia we only accept cash payment. Failure to pay the trek balance will result in tour cancellation.</li>
+                  <li>If a participant decides to cancel during the breefing 2 days prior to departure, he or she has to pay the full amount of the trek. XTreme Tourbulencia however, will cover the expenses (hotel and train ticket) made by that participant to visit Machu Picchu. This offer of ours must be confirmed at the breefing itself.</li>
+                  <li>The Client may cancel the Package booking at any time provided that the cancellation is communicated to <a href="mailto:info@x-tremetourbulencia.com">info@x-tremetourbulencia.com</a> in writing. Cancellation charges will be applied as shown below calculated from the day written notification is received by <a href="mailto:info@x-tremetourbulencia.com">info@x-tremetourbulencia.com</a> All reservations cancelled less than 15 days prior to the departure date of the tour are subject to a cancellation fee <br>
                           <table class="table table-sm mt-3 table-bordered">
                           <thead>
                             <tr>
@@ -210,25 +206,47 @@ include('../includes/header.php');
                         </table>
 
                   </li>
-                  <li class="my-1">The Inca Trail is non-transferable, non-reimbursable and the participant cannot change the date of departure.</li>
-                  <li class="my-1">If during the length of the program the traveler abandons the excursion as a decision made by him- or herself, no reimbursement will be made and no claim will be accepted. XTreme Tourbulencia does not cover the expenses made by the traveler for a hotel and the transport back to Cusco or to Aguas Calientes, as well as a hotel in Aguas Calientes. Also, the traveler will be accompanied by a co-worker of XTreme Tourbulencia back to the train station.</li>
-                  <li class="my-1">Certain Services might be interrupted or even cancelled due to weather conditions, natural disasters or other disturbances. These are out of the control of hotels, Service suppliers, XTreme Tourbulencia or its partners and therefore, no refund will be given.</li>
-                  <li class="my-1"><b>For the student discount of $ 20 UDS we require a copy of a university student card with valid expiration date and picture on it.</b> It is very important bring with you your original student card to valid the discount. In the event that we don't receive the scanned copy of the card along with your reservation form, we will process your reservation with adult price.</li>
-                  <li class="my-1">If XTreme Tourbulencia doesn't confirm the reservation, the deposit will be refunded</li>
-                  <li class="my-1">In case of force majeur, when a trek cannot start or completed, XTreme Tourbulencia will find an alternative to go to Machu Picchu. If this alternative is of lower value than the originally booked excursion, XTreme Tourbulencia will refund the difference.</li>
-                  <li class="my-1">It is compulsory that all clients have personal travel insurance. This insurance must cover personal accidents, medical expenses, loss of effects and all other expenses which might arise as a result of loss, damage or injury occurring to the client. XTreme Tourbulencia cannot be considered responsible for any accident or loss of personal belongings the customer caused by his/her acts</li>
+                  <li>The Inca Trail is non-transferable, non-reimbursable and the participant cannot change the date of departure.</li>
+                  <li>If during the length of the program the traveler abandons the excursion as a decision made by him- or herself, no reimbursement will be made and no claim will be accepted. XTreme Tourbulencia does not cover the expenses made by the traveler for a hotel and the transport back to Cusco or to Aguas Calientes, as well as a hotel in Aguas Calientes. Also, the traveler will be accompanied by a co-worker of XTreme Tourbulencia back to the train station.</li>
+                  <li>Certain Services might be interrupted or even cancelled due to weather conditions, natural disasters or other disturbances. These are out of the control of hotels, Service suppliers, XTreme Tourbulencia or its partners and therefore, no refund will be given.</li>
+                  <li><b>For the student discount of $ 20 UDS we require a copy of a university student card with valid expiration date and picture on it.</b> It is very important bring with you your original student card to valid the discount. In the event that we don't receive the scanned copy of the card along with your reservation form, we will process your reservation with adult price.</li>
+                  <li>If XTreme Tourbulencia doesn't confirm the reservation, the deposit will be refunded</li>
+                  <li>In case of force majeur, when a trek cannot start or completed, XTreme Tourbulencia will find an alternative to go to Machu Picchu. If this alternative is of lower value than the originally booked excursion, XTreme Tourbulencia will refund the difference.</li>
+                  <li>It is compulsory that all clients have personal travel insurance. This insurance must cover personal accidents, medical expenses, loss of effects and all other expenses which might arise as a result of loss, damage or injury occurring to the client. XTreme Tourbulencia cannot be considered responsible for any accident or loss of personal belongings the customer caused by his/her acts</li>
 
                 </ol>
 
             </div>
             <div>
-            <p>Suspendisse blandit velit Integer laoreet placerat suscipit. Sed sodales scelerisque commodo. Nam porta cursus lectus. Proin nunc erat, gravida a facilisis quis, ornare id lectus. Proin consectetur nibh quis Integer laoreet placerat suscipit. Sed sodales scelerisque commodo. Nam porta cursus lectus. Proin nunc erat, gravida a facilisis quis, ornare id lectus. Proin consectetur nibh quis urna gravid urna gravid eget erat suscipit in malesuada odio venenatis.</p>
+            <h4>Short Inca Trail Map</h4>
+              <img src="../img/short-inca-trail-map.jpg" class="img-fluid" alt="map inca trail">
             </div>
             <div>
-            <p>Suspendisse blandit velit Integer laoreet placerat suscipit. Sed sodales scelerisque commodo. Nam porta cursus lectus. Proin nunc erat, gravida a facilisis quis, ornare id lectus. Proin consectetur nibh quis Integer laoreet placerat suscipit. Sed sodales scelerisque commodo. Nam porta cursus lectus. Proin nunc erat, gravida a facilisis quis, ornare id lectus. Proin consectetur nibh quis urna gravid urna gravid eget erat suscipit in malesuada odio venenatis.</p>
+              <h4>Short Inca Trail Map</h4>
+              <div class="gallery">
+                  <a href="../img/tours/short-inca-trail-machu-picchu-01.JPG" data-fancybox="images">
+                    <img src="../img/tours/short-inca-trail-machu-picchu-01.JPG" width="200" />
+                  </a>
+                  <a href="../img/tours/short-inca-trail-machu-picchu-02.JPG" data-fancybox="images">
+                    <img src="../img/tours/short-inca-trail-machu-picchu-02.JPG" width="200" />
+                  </a>
+                  <a href="../img/tours/short-inca-trail-machu-picchu-03.JPG" data-fancybox="images">
+                    <img src="../img/tours/short-inca-trail-machu-picchu-03.JPG" width="200" />
+                  </a>
+                  <a href="../img/tours/short-inca-trail-machu-picchu-04.JPG" data-fancybox="images">
+                    <img src="../img/tours/short-inca-trail-machu-picchu-04.JPG" width="200" />
+                  </a>
+                  <a href="../img/tours/short-inca-trail-machu-picchu-05.JPG" data-fancybox="images">
+                    <img src="../img/tours/short-inca-trail-machu-picchu-05.JPG" width="200" />
+                  </a>
+                  <a href="../img/tours/short-inca-trail-machu-picchu-06.JPG" data-fancybox="images">
+                    <img src="../img/tours/short-inca-trail-machu-picchu-06.JPG" width="200" />
+                  </a>
+              </div>
+              
             </div>
             <div>
-            <p>Suspendisse blandit velit Integer laoreet placerat suscipit. Sed sodales scelerisque commodo. Nam porta cursus lectus. Proin nunc erat, gravida a facilisis quis, ornare id lectus. Proin consectetur nibh quis Integer laoreet placerat suscipit. Sed sodales scelerisque commodo. Nam porta cursus lectus. Proin nunc erat, gravida a facilisis quis, ornare id lectus. Proin consectetur nibh quis urna gravid urna gravid eget erat suscipit in malesuada odio venenatis.</p>
+                <?php include("../includes/booking.php") ?>
             </div>
             </div>
             </div>
@@ -275,6 +293,7 @@ include('../includes/header.php');
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" ></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.6/dist/jquery.fancybox.min.js"></script>
     <script src="../js/tours.js"></script>
 
   </body>

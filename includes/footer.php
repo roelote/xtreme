@@ -13,13 +13,13 @@
           <div class="col-sm-4">
             <div class="block-footer my-4 my-sm-5 text-white">
               <h4 class="mb-3 h6"><b>WhatsApp</b></h4>
-              <p><b>Dimas: <i class="fa fa-whatsapp" aria-hidden="true"></i>  +51984610644 <img src="img/en.gif" alt="flag en"> <img src="img/es.gif" alt="flag es"> <img src="img/fr.gif" alt="flag fr"></b></p>
-              <p><b>Marco: <i class="fa fa-whatsapp" aria-hidden="true"></i>  +51984263576 <img src="img/en.gif" alt="flag en"> <img src="img/es.gif" alt="flag es"> <img src="img/fr.gif" alt="flag fr"></b></p>
+              <p><b>Dimas: <i class="fa fa-whatsapp" aria-hidden="true"></i>  +51984610644 <img src="/img/en.gif" alt="flag en"> <img src="/img/es.gif" alt="flag es"> <img src="/img/fr.gif" alt="flag fr"></b></p>
+              <p><b>Marco: <i class="fa fa-whatsapp" aria-hidden="true"></i>  +51984263576 <img src="/img/en.gif" alt="flag en"> <img src="/img/es.gif" alt="flag es"> <img src="/img/fr.gif" alt="flag fr"></b></p>
             </div>
           </div>
           <div class="col-sm-4">
             <div class="block-footer social my-4 my-sm-5 text-white text-center">
-                <img src="img/logo-pie.png" alt="logo bot">
+                <img src="/img/logo-pie.png" alt="logo bot">
                 <p class="mt-3">Xtreme Tourbulencia is a leading tourism company in Cusco City that contributes <a href="about-us.html">Read More</a></p>
                 <ul class="list-inline">
                     <li class="list-inline-item"><i class="fa fa-facebook" aria-hidden="true"></i></li>

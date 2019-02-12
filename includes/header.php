@@ -36,9 +36,10 @@
                         <li class="dropdown">
                             <a class="dropdown-toggle" href="/inca-trail-treks/" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Inka Trail</a>
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                <li><a href="#">Action</a></li>
-                                <li><a href="#">Another action</a></li>
-                                <li><a href="#">Something else here</a></li>
+                                <li><a href="/inca-trail-treks/short-inca-trail-2days.php">Short Inca Trail Trek 2 Days </a></li>
+                                <li><a href="/inca-trail-treks/inca-trail-trek-4days.php">Inca Trail Trek 4 Days</a></li>
+                                <li><a href="/inca-trail-treks/luxury-royal-inca-trail-2days.php">Luxury Royal Inca Trail 2 Days</a></li>
+                                <li><a href="/inca-trail-treks/luxury-royal-inca-trail-4days.php">Luxury Royal Inca Trail 4 Days</a></li>
                             </ul>
                         </li>
 
