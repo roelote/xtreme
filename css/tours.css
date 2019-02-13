@@ -25,6 +25,14 @@ nav
 	color: #339966;
 	font-family: 'Oswald', sans-serif !important;
 } 
+.box-tour h3
+{
+  font-family: 'Oswald', sans-serif !important;
+/*  color: #145db0;*/
+color: #ed8a1b;
+text-shadow: 1px 1px 1px #4a3f3f;
+
+}
 .container-aside h3
 {	
 	color: #222;
@@ -72,6 +80,11 @@ nav
 {
 	min-height: auto !important;
 }
+.table-lares
+{
+  max-width: 600px;
+  margin:0 auto;
+}
 .table-lares td {
     color: #148314;
     font-weight: 600;
@@ -79,9 +92,18 @@ nav
 .avai
 {
 	font-family: 'Oswald', sans-serif !important;
-	/*color: #1d5799;*/
+	background-color: #148314;
 }
-
+.orang
+{
+  color: #ff6600 !important;
+  font-weight: 600;
+  text-transform: uppercase;
+  text-align: center;
+}
+.table-lares tr td:nth-child(2) {
+  color: #333399;
+}
 /*tabs tours*/
 
 ul.resp-tabs-list {
@@ -275,6 +297,7 @@ padding: 3px;
 border-bottom: 1px solid #e3dede;
 border-right: 1px solid #e3dede;
 margin-top: 15px;
+text-shadow: none !important;
 }
 
 .resp-tabs-container h4
@@ -285,14 +308,14 @@ margin-top: 15px;
 
 }
 
-.check li::before {
+.check > li::before {
     content: '\f00c';
     font-family: 'FontAwesome';
     float: left;
     padding-right: 5px;
     
 }
-.nocheck li::before {
+.nocheck > li::before {
     content: '\f00d';
     font-family: 'FontAwesome';
     float: left;

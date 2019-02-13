@@ -27,7 +27,7 @@ include('../includes/header.php');
         <div class="d-block mx-auto">
           <nav aria-label="breadcrumb">
             <ol class="breadcrumb text-center">
-              <li class="breadcrumb-item active text-white w-100 h2 my-2 " aria-current="page"><b>Lares Trek</b></li>
+              <li class="breadcrumb-item active text-white w-100 h2 my-2 " aria-current="page"><b>Lares Trek Machu Picchu</b></li>
               <li class="breadcrumb-item w-100"><a href="/">Home</a></li>
             </ol>
         </nav>
@@ -71,41 +71,64 @@ include('../includes/header.php');
               </div>
               </div>
 
-<p>The Lares Trek is an alternative high altitude Trek in Cusco Peru, starting near the village of Lares, approximately 40 miles north of Cusco and 35 miles east of Machu Picchu.</p>
+        <p>The Lares Trek is an alternative high altitude Trek in Cusco Peru, starting near the village of Lares, approximately 40 miles north of Cusco and 35 miles east of Machu Picchu.</p>
 
-<p>To get to the start of the trek requires a bus or van trip of approximately 6 hours from the town of Cusco. The Lares trek route transverses typical beautiful, pristine Peruvian Andean mountain areas.</p>
+        <p>To get to the start of the trek requires a bus or van trip of approximately 6 hours from the town of Cusco. The Lares trek route transverses typical beautiful, pristine Peruvian Andean mountain areas.</p>
 
-<p>The Lares Valley Trek is one of the most picturesque in the southern part of Cusco, home of many traditional weavers and farmers. The people live day to day, growing and knitting what they eat and wear. Each day is reasonably paced with ample time to enjoy the incredible scenery, to walk is hard but this is incredibly compensated with the landscape, lunch alongside cascading waterfalls; appreciate the life of the Andean farmer and we could share time with them to tell us about their activities, this with help of the tour guide.</p>
+        <p>The Lares Valley Trek is one of the most picturesque in the southern part of Cusco, home of many traditional weavers and farmers. The people live day to day, growing and knitting what they eat and wear. Each day is reasonably paced with ample time to enjoy the incredible scenery, to walk is hard but this is incredibly compensated with the landscape, lunch alongside cascading waterfalls; appreciate the life of the Andean farmer and we could share time with them to tell us about their activities, this with help of the tour guide.</p>
 
-             <h3 class="h4 text-center avai">AVAILABILITY LARES TREK AND MACHU PICCHU 04 DAYS</h3>
 <table class="table table-striped table-bordered table-sm table-lares">
   <thead>
     <tr>
-      <th scope="col">#</th>
-      <th scope="col">MARCH </th>
-      <th scope="col">APRIL </th>
-      <th scope="col">MAY </th>
-      <th scope="col">JUNE </th>
-      <th scope="col">JULY  </th>
-      <th scope="col">AUGUST  </th>
-      <th scope="col">SEPTEMBER  </th>
-      <th scope="col">OCTOBER </th>
-      <th scope="col">NOVEMBER </th>
+    <th class="avai" colspan="2"> <h3 class="h5 text-center text-white">AVAILABILITY LARES TREK AND MACHU PICCHU 04 DAYS</h3></th>
+   <!--  <th>Month</th>
+    <th>Day Departures</th> -->
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th scope="row" rowspan="3">DAYS</th>
-      <td>04, 09, 14, 20, 26, 30</td>
+      <td class="orang">Month</td>
+      <td class="orang">Day Departures</td>
+    </tr>
+    <tr>
+      <td>March</td>
+      <td>04, 09,14, 20, 26, 30</td>
+    </tr>
+    <tr>
+      <td> April</td>
       <td>02, 10, 18, 27, 30 </td>
-      <td>05, 11, 16, 19, 20, 21, 28</td>
+    </tr>
+    <tr>
+      <td>May</td>
+      <td>05, 11, 16, 19,20, 21,28</td>
+    </tr>
+    <tr>
+      <td>June</td>
       <td>07, 16, 19, 23, 26</td>
-      <td>03, 07, 13, 16, 20, 22</td>
+    </tr>
+    <tr>
+      <td>July</td>
+      <td>03, 07, 13, 16,20,22</td>
+    </tr>
+    <tr>
+      <td>August</td>
       <td>03, 08, 13, 15, 28</td>
+    </tr>
+    <tr>
+      <td>September</td>
       <td>02, 11, 18</td>
+    </tr>
+    <tr>
+      <td>October</td>
       <td>08, 16, 23</td>
+    </tr>
+    <tr>
+      <td>November</td>
       <td>02, 17</td>
-
+    </tr>
+    <tr>
+      <td>December</td>
+      <td></td>
     </tr>
    
   </tbody>
@@ -124,7 +147,7 @@ include('../includes/header.php');
  -->
           <div class="box-tours">
             <hr>
-            <h3 class="my-2 h4 my-3">Lares Trek to to Machu Picchu</h3>
+            <h3 class="my-2 h3 my-3">Tours Lares Trek to to Machu Picchu</h3>
             
                   <div class="row">
                     <div class="col-md-6 mb-5">
